@@ -39,11 +39,11 @@
 
 ## 5. Preview
 ### **Menu**
-<img width="1117" height="651" alt="image" src="https://github.com/user-attachments/assets/794be657-f15d-43a5-b1ec-b7b38c1873d1" />
-### **Them sinh vien**
-<img width="1100" height="662" alt="image" src="https://github.com/user-attachments/assets/51db98b6-c484-4711-8ddf-71ab923d299c" />
-### **Chức năng hiển thị danh sách sinh viên**
-<img width="1102" height="644" alt="image" src="https://github.com/user-attachments/assets/61258648-dac6-40d4-be84-9d7d17c42d84" />
+![Menu]<img width="1117" height="651" alt="image" src="https://github.com/user-attachments/assets/794be657-f15d-43a5-b1ec-b7b38c1873d1" />
+### **Thêm sinh viên**
+![Thêm sinh viên ]<img width="1100" height="662" alt="image" src="https://github.com/user-attachments/assets/51db98b6-c484-4711-8ddf-71ab923d299c" />
+### **Hiển thị danh sách sinh viên**
+![Danh sách]<img width="1102" height="644" alt="image" src="https://github.com/user-attachments/assets/61258648-dac6-40d4-be84-9d7d17c42d84" />
 
 
 
