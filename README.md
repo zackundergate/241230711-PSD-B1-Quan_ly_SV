@@ -35,7 +35,7 @@
 - **Dữ liệu mẫu:** Tự động khởi tạo 3 sinh viên mẫu khi ứng dụng khởi chạy.
 - **Lưu trữ dữ liệu:** Lưu trữ trực tiếp trong bộ nhớ RAM (`List<Student>`), không dùng file JSON/CSV hay file Log.
 
-##5. Preview
+## 5. Preview
 
 <img width="1117" height="651" alt="image" src="https://github.com/user-attachments/assets/794be657-f15d-43a5-b1ec-b7b38c1873d1" />
 <img width="1100" height="662" alt="image" src="https://github.com/user-attachments/assets/51db98b6-c484-4711-8ddf-71ab923d299c" />
